@@ -1,6 +1,6 @@
 # Data Structures HW1 - Sorting Assignment
 
-**Student Name:** Eitan Haim Levi - 212386932, Tohar Asaf - 207828039
+**Student Name:** Eitan Haim Levi, Tohar Asaf
 
 ## Selected Algorithms
 The following sorting algorithms are the main focus of our comparison:
